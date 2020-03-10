@@ -1,5 +1,5 @@
 class Dog
 end
-fido Dog, 
-snoopy Dog, 
+fido Dog,
+snoopy Dog,
 lassie Dog
